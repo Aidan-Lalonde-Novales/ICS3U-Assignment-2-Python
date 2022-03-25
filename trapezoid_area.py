@@ -7,7 +7,7 @@
 
 
 def main():
-    # this function calculates the perimeter and area
+    # this function calculates the area of a trapezoid
 
     # input
     bottom_side = float(input("Enter the Bottom Side of the Trapezoid (mm): "))
